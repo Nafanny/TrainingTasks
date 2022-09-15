@@ -26,6 +26,5 @@ public class Main {
 }
 
 
-// LocalDate ПРОЧИТАТЬ!!!!!!!!!
-// Abstract class
+// LocalDate
 // уровни абстракции в проекте
